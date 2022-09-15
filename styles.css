@@ -17,7 +17,7 @@ body {
     font-family: 'Montserrat', sans-serif;
     display: flex;
     background-color: var(--Very_Light_Grayish_Blue);
-    max-height: 100vh;
+    min-height: 100vh;
     background-image: url("./images/bg-top.svg"), url("./images/bg-bottom.svg");
     background-repeat: no-repeat;
     background-position: right, 0 25rem;
